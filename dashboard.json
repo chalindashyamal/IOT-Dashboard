@@ -127,35 +127,7 @@
 				}
 			]
 		},
-		{
-			"title": "Road Risk Score",
-			"width": 1,
-			"row": {
-				"2": 13,
-				"3": 13,
-				"4": 13,
-				"5": 1,
-				"9": 11
-			},
-			"col": {
-				"2": 2,
-				"3": 1,
-				"4": 2,
-				"5": 4,
-				"9": 4
-			},
-			"col_width": 1,
-			"widgets": [
-				{
-					"type": "gauge",
-					"settings": {
-						"value": "datasources[\"live\"][\"feeds\"][0][\"field6\"]",
-						"min_value": 0,
-						"max_value": 100
-					}
-				}
-			]
-		},
+		
 		{
 			"title": "risk",
 			"width": 1,
